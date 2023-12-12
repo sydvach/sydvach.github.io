@@ -1,2 +1,2 @@
 # sydvach.github.io
-academic website
+Sydney Vach -- personal website
