@@ -1,2 +1,1 @@
-# sydvach.github.io
-Sydney Vach -- personal website
+### Sydney Vach -- personal website
