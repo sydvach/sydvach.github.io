@@ -1,1 +1,0 @@
-### Sydney Vach -- personal website
